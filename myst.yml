@@ -15,7 +15,7 @@ project:
     
 site:
   template: book-theme
-  baseurl: /testGithubPages
+  base_url: /testGithubPages
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
